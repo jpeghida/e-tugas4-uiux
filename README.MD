@@ -37,10 +37,11 @@ Seluruh komponen dalam proyek ini dirancang dengan pendekatan minimalis modern m
 
 ---
 
-## 3. UI/UX Design Structure
+### 3. UI/UX Design Structure
 
 Berikut adalah tata letak arsitektur halaman, pembagian frame kerja, serta penempatan state melayang (Popup Modal) yang telah diselesaikan dengan standar resolusi layar desktop (1440x900 px):
 
+```text
 Page 1: Authentication & Admin
 ├──  [Frame] Login Page (Double Split Layout)
 ├──  [Frame] Dashboard Admin (Stats Cards & Daftar User)
