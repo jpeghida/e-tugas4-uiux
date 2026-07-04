@@ -69,8 +69,8 @@ Page 3: Mahasiswa
 
 ## 4. Design Handoff & Deliverables
 
-* **Figma Live Link:** [https://www.figma.com/design/skZUoCh6wMrC6TDtCCrw8B/E-Tugas-4--Revisi-?node-id=0-1&t=aKxslbu1sAe94TrF-1] 
-* **Dokumentasi Preview Visual:** Seluruh tangkapan layar dari frame di atas disimpan pada direktori `/preview-screens/` lokal untuk mempermudah pemeriksaan visual cepat.
+* Figma Live Link: https://www.figma.com/design/skZUoCh6wMrC6TDtCCrw8B/E-Tugas-4--Revisi-?node-id=0-1&t=aKxslbu1sAe94TrF-1 
+* Dokumentasi Preview Visual: Seluruh tangkapan layar dari frame di atas disimpan pada direktori `/preview-screens/` lokal untuk mempermudah pemeriksaan visual cepat.
 
 ---
 Dokumentasi Desain UI/UX Proyek E-Tugas 4 - Kelompok 4.
